@@ -1,0 +1,44 @@
+[
+{
+	"studentid": "574234040",
+	"firstname": "khadafee",
+	"lastname" : "sereeyadee"
+	"nickname" : "Fee"
+	"BirthDate" "1996-03-29"
+	"picture" ""
+
+}
+,
+{
+	"studentid": "574234040",
+	"firstname": "khadafee",
+	"lastname" : "sereeyadee"
+	"nickname" : "Fee"
+	"BirthDate" "1996-03-29"
+	"picture" ""
+
+}
+,
+{
+	"studentid": "574234040",
+	"firstname": "khadafee",
+	"lastname" : "sereeyadee"
+	"nickname" : "Fee"
+	"BirthDate" "1996-03-29"
+	"picture" ""
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
