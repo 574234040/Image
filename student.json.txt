@@ -2,30 +2,10 @@
 {
 	"studentid": "574234040",
 	"firstname": "khadafee",
-	"lastname" : "sereeyadee"
-	"nickname" : "Fee"
-	"BirthDate" "1996-03-29"
-	"picture" ""
-
-}
-,
-{
-	"studentid": "574234040",
-	"firstname": "khadafee",
-	"lastname" : "sereeyadee"
-	"nickname" : "Fee"
-	"BirthDate" "1996-03-29"
-	"picture" ""
-
-}
-,
-{
-	"studentid": "574234040",
-	"firstname": "khadafee",
-	"lastname" : "sereeyadee"
-	"nickname" : "Fee"
-	"BirthDate" "1996-03-29"
-	"picture" ""
+	"lastname" : "sereeyadee",
+	"nickname" : "Fee",
+	"BirthDate" : "1996-03-29",
+	"picture" : "https://raw.githubusercontent.com/574234040/Image/master/50589453_462883847578304_8547839939654451200_n.jpg"
 
 }
 
