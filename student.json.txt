@@ -16,21 +16,32 @@
 	"lastname" : "Rodneom",
 	"nickname" : "Muna",
 	"BirthDate" : "1998-10-13",
-	"picture" : "https://raw.githubusercontent.com/574234040/Image/master/50589453_462883847578304_8547839939654451200_n.jpg",
+	"picture" : "https://raw.githubusercontent.com/574234040/Image/master/004.jpg",
 	"category": "friend"
 
 }
+,
+{
+	"studentid": "604234019",
+	"firstname": "Rohanee ",
+	"lastname" : "Samoot",
+	"nickname" : "Nee",
+	"BirthDate" : "1998-09-25",
+	"picture" : "https://raw.githubusercontent.com/574234040/Image/master/019.jpg",
+	"category": "friend"
 
+}
+,
+{
+	"studentid": "604234032",
+	"firstname": "Hafisah",
+	"lastname" : "Harong",
+	"nickname" : "Feejah",
+	"BirthDate" : "1998-04-01",
+	"picture" : "https://raw.githubusercontent.com/574234040/Image/master/032.jpg",
+	"category": "friend"
 
-
-
-
-
-
-
-
-
-
+}
 
 
 ]
