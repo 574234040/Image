@@ -9,6 +9,17 @@
 	"category": "friend"
 
 }
+,
+{
+	"studentid": "604234004",
+	"firstname": "Jiwaree",
+	"lastname" : "Rodneom",
+	"nickname" : "Muna",
+	"BirthDate" : "1998-10-13",
+	"picture" : "https://raw.githubusercontent.com/574234040/Image/master/50589453_462883847578304_8547839939654451200_n.jpg",
+	"category": "friend"
+
+}
 
 
 
